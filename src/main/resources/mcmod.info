@@ -1,0 +1,16 @@
+[
+{
+  "modid": "shout",
+  "name": "Shout Mod",
+  "description": "add shout",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["yousui115"],
+  "credits": ";-)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
